@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Haroldo","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Actor1_8","characterIndex":7,"characterName":"Actor1","classId":2,"equips":[2,1,2,3,0],"faceIndex":7,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Teresa","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Actor3_8","characterIndex":7,"characterName":"Actor3","classId":3,"equips":[3,0,2,3,4],"faceIndex":7,"faceName":"Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"Márcia","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"Lina","characterIndex":0,"characterName":"Lina","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Lina","traits":[],"initialLevel":1,"maxLevel":99,"name":"Lina","nickname":"","note":"","profile":"Lina quando ela tá no salão principal e lá fora."},
+{"id":6,"battlerName":"Theo","characterIndex":0,"characterName":"Theo","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Theo","traits":[],"initialLevel":1,"maxLevel":99,"name":"Theo","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"Mordomo","characterIndex":0,"characterName":"Mordomo","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Mordomo","traits":[],"initialLevel":1,"maxLevel":99,"name":"Mordomo","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"Theo","characterIndex":0,"characterName":"TheoAdolescente","classId":5,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"TheoAdolescente","traits":[],"initialLevel":1,"maxLevel":1,"name":"Theo","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"","characterIndex":0,"characterName":"LinaPraia","classId":5,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"LinaPraia","traits":[],"initialLevel":1,"maxLevel":1,"name":"Lina","nickname":"","note":"","profile":""},
+{"id":10,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]

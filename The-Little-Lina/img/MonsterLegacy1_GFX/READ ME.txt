@@ -1,0 +1,32 @@
+Thank you kindly for purchasing this resource pack! We do hope that it serves you well.
+
+=========Regarding some of the resources in this pack=========
+If you are using RPGMaker VX, VX Ace, or other RPG Maker product, not all of these resources will be ready-to-use 'right out of the box'.
+Instead, some third-party scripts might be required to utilize the higher frames of animation sprite sheets, animated battlers, and running sprites.
+
+All of these scripts do exist currently and can be found in the official RPGMaker Scripts forums. 
+
+Just head here: http://forums.rpgmakerweb.com/
+and then check out their script section of the appropriate RPG Maker product. 
+
+You can find which scripts I personally use to make the demo videos on my site in the FAQ and Commission section : www.pioneervalleygames.com
+
+
+
+==========Terms of Use============
+All resources in this bundle are free to use in commercial and non-commercial projects. You are free to use these resources in conjunction with any game-making software you choose. You are prohibited from freely distributing any of the resources in part or in whole, and you are also prohibited from selling any of these resources. They are for use in projects only.
+
+
+
+
+If you have any questions, comments, concerns, or requests for future products, please visit our website:
+
+www.pioneervalleygames.com
+
+Or stop by our Facebook page and say Hi!
+
+http://www.facebook.com/PioneerValleyGames
+
+
+Thank you kindly,
+-Jesse and Megan
